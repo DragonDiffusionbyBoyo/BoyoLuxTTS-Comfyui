@@ -1,0 +1,18 @@
+[project]
+name = "BoyoLuxTTS-Comfyui"
+description = "Lux TTS for Comfyui"
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["torchvision", "numpy", "pillow"]
+
+[project.urls]
+Repository = "https://github.com/DragonDiffusionbyBoyo/BoyoLuxTTS-Comfyui"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "DragonDiffusionbyBoyo"
+DisplayName = "BoyoLuxTTS-Comfyui"
+Icon = ""
+
+
+
