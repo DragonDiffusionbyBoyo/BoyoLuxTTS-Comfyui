@@ -14,7 +14,7 @@ High-quality voice cloning nodes for ComfyUI using LuxTTS.
 
 ### Prerequisites
 
-1. 
+1. Torch >=2.8.0
    ```
 Comfyui 
    ```
