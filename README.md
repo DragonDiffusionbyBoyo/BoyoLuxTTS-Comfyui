@@ -17,7 +17,6 @@ High-quality voice cloning nodes for ComfyUI using LuxTTS.
 1. 
    ```Torch >=2.8.0
 
-   ```Comfyui 
 
 ### Method 1: ComfyUI Manager (Recommended)
 ComfyUI Manager will automatically detect and offer to install dependencies from `requirements.txt` when you restart ComfyUI.
