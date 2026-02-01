@@ -2,7 +2,7 @@
 
 torch
 torchaudio
-numpy>=1.26.4
+numpy>=1.26.3
 lhotse
 huggingface_hub
 safetensors
