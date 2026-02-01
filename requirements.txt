@@ -1,0 +1,25 @@
+--find-links https://k2-fsa.github.io/icefall/piper_phonemize.html
+
+torch
+torchaudio
+numpy>=1.26.4
+lhotse
+huggingface_hub
+safetensors
+tensorboard
+vocos
+pydub
+onnxruntime
+git+https://github.com/ysharma3501/LinaCodec.git
+librosa
+transformers
+
+# Normalisation
+cn2an
+inflect
+
+# Tokenisation
+jieba
+piper_phonemize
+pypinyin
+setuptools<81
