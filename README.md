@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E01W3X6E)
+
 # Boyo Lux TTS - ComfyUI Custom Nodes
 
 High-quality voice cloning nodes for ComfyUI using LuxTTS.
